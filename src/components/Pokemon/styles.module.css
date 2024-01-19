@@ -1,4 +1,11 @@
-.title {
-    color: green
+.name {
+    background-color: yellow;
+    margin-bottom: 15px;
+    width: 280px;
+    border-radius: 5px;
+    margin: 0 auto 20px auto;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 25px;
+    cursor: pointer;
 }
-
